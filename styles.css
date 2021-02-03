@@ -10,4 +10,5 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 
 h1{
     background-color: aliceblue;
+    font-size: 45px;
 }
